@@ -5,7 +5,6 @@ QuantumChatBot is a futuristic AI-powered conversational assistant designed to d
 
 🚀 **Live Demo**: [https://quantum-ai-chat.streamlit.app/](https://quantum-ai-chat.streamlit.app/)
 
----
 
 ## 🧠 Chatbot Backstory
 
@@ -15,7 +14,6 @@ At the core of QuantumChatBot is a compelling narrative: the bot is a hyper-inte
 
 Read the full narrative in [`story.txt`](https://github.com/nithinkumark-dev/QuantumChatBot/blob/main/story.txt).
 
----
 
 ## ✨ Features
 
@@ -24,7 +22,6 @@ Read the full narrative in [`story.txt`](https://github.com/nithinkumark-dev/Qua
 - **Custom Persona via Prompt Engineering**
 - **Secure Environment Variable Handling**
 
----
 
 ## 🔧 Installation
 
@@ -38,7 +35,6 @@ cp .env.example .env  # Then fill in your keys
 streamlit run main.py
 ```
 
----
 
 ## 🚀 Deployment on Streamlit Cloud
 
@@ -52,7 +48,6 @@ To deploy QuantumChatBot on [Streamlit Cloud](https://streamlit.io/cloud):
 
 Your chatbot will now be live and shareable!
 
----
 
 ## 📁 Project Structure
 
@@ -66,13 +61,11 @@ QuantumChatBot/
 └── .gitignore
 ```
 
----
 
 ## 🤝 Contributing
 
 PRs and ideas are welcome! Just fork, branch, code, and make a pull request.
 
----
 
 ## 📄 License
 
